@@ -7,7 +7,7 @@ from setuptools import find_packages, setup
 
 ###############################################################################
 
-NAME = "attrs"
+NAME = "python3-attrs"
 PACKAGES = find_packages(where="src")
 META_PATH = os.path.join("src", "attr", "__init__.py")
 KEYWORDS = ["class", "attribute", "boilerplate"]
